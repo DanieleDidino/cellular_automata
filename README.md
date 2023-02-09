@@ -10,10 +10,14 @@
 (using the [Wolfram code](https://en.wikipedia.org/wiki/Wolfram_code)). 
 There are 256 possible rules to generate the patterns.
 
+**Rule 22**
+
 ![alt text](figs//Wolfram%20-%20rule%2022.png "Rule 22")
 
 [Rule 30](https://en.wikipedia.org/wiki/Rule_30)
 
 ![alt text](figs//Wolfram%20-%20rule%2030.png "Rule 30")
+
+**Rule 99**
 
 ![alt text](figs//Wolfram%20-%20rule%2099.png "Rule 99")
